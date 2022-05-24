@@ -1,0 +1,22 @@
+{
+  "name": "track-it",
+  "version": "1.0.0",
+  "description": "First Version of Track it",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshuSomething/Track-It.git"
+  },
+  "author": "Ashlesh Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshuSomething/Track-It/issues"
+  },
+  "homepage": "https://github.com/AshuSomething/Track-It#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
